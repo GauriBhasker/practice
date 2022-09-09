@@ -2,7 +2,7 @@
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/108627962/189332751-b40fbc6f-3544-4b41-a20d-282bd74298ab.png)
 ![Screenshot (70)](https://user-images.githubusercontent.com/108627962/189332760-4a5336cf-5a30-451a-98f7-bb78bad893fa.png)
-pplication
+
 
 
 we have created a simple java web application for maven project using java servlet .
